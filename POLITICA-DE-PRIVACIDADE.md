@@ -1,9 +1,9 @@
 # Política de Privacidade do FrontierLite
 
-**Última atualização:** 6 de setembro de 2026
+**Última atualização:** 21 de setembro de 2026
 
 
-Esta Política de Privacidade explica como o **FrontierLite** ("Bot"), mantido por **Marcelo "Poolshev"** ("Responsável"), acessa, utiliza, armazena e exclui informações durante seu funcionamento no Discord.
+Esta Política de Privacidade explica como o **Frontier Bot** ("Bot"), mantido por **Marcelo "Poolshev"** ("Responsável"), acessa, utiliza, armazena e exclui informações durante seu funcionamento no Discord.
 
 ## 1. Informações processadas
 
@@ -87,5 +87,5 @@ O responsável pelo tratamento das informações é **Marcelo "Poolshev"**.
 
 Para dúvidas, solicitações de exclusão ou exercício de direitos relacionados à privacidade, entre em contato por:
 
-**https://discord.gg/frontierstudiogg**
+**[FRONTIER BOT](https://discord.gg/bDjstBSCu4)**
 
