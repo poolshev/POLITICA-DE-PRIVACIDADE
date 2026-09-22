@@ -1,4 +1,4 @@
-# Política de Privacidade do FrontierLite
+# Política de Privacidade do Frontier Bot
 
 **Última atualização:** 21 de setembro de 2026
 
@@ -51,7 +51,7 @@ Dados poderão permanecer temporariamente em cópias de segurança técnicas at�
 
 ## 6. Compartilhamento
 
-O FrontierLite não vende informações pessoais. Dados poderão ser transmitidos ou disponibilizados somente:
+O Frontier Bot não vende informações pessoais. Dados poderão ser transmitidos ou disponibilizados somente:
 
 - ao Discord, conforme necessário para receber eventos e executar ações pela API;
 - ao provedor de hospedagem, na medida técnica necessária para operar o Bot;
